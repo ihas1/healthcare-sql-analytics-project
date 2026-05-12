@@ -165,12 +165,14 @@ Added indexes to improve query performance on frequently joined columns.
 
 # Project Structure
 
-healthcare-sql-analytics-project/
-sql/
-│   └── healthcare_analytics_project.sql
+```text
+healthcare-revenue-cycle-analytics/
+│
+├── sql/
+│   └── healthcare_analytics.sql
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 # Future Improvements
