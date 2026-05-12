@@ -166,7 +166,7 @@ Added indexes to improve query performance on frequently joined columns.
 # Project Structure
 
 ```text
-healthcare-revenue-cycle-analytics/
+healthcare-sql-analytics-project/
 │
 ├── sql/
 │   └── healthcare_analytics.sql
